@@ -15,3 +15,7 @@ docs
 
 # Ignore all hidden files
 .*
+
+!librechat.yaml
+!librechat.yml
+
